@@ -4,9 +4,9 @@
 
 My name is Giovane Eufrasio, I am originally from Brazil and currently live in Spain. I am a Computer Scientist and Computer Engineer with academic training across two countries. In Brazil, I completed my Bachelor’s degree in Computer Science, and later in Spain, I obtained a Master’s degree in Computer Engineering, specializing in Artificial Intelligence and developing solid expertise in Data Science.
 
-I also have international professional experience, with 4 years in Brazil and 1 year in Spain, which has strengthened my ability to work in multicultural environments. During my time in Spain, I contributed to several AI-driven projects, including the development of intelligent avatars specialized in domains such as history, museology, healthcare, and others. Additionally, I worked on advanced computer vision and AI-based 3D reconstruction projects.
+I also have international professional experience, with 4 years in Brazil and 2 years in Spain, which has strengthened my ability to work in multicultural environments. During my time in Spain, I contributed to several AI-driven projects, including the development of intelligent avatars specialized in domains such as history, museology, healthcare, and others. Additionally, I worked on advanced computer vision and AI-based 3D reconstruction projects.
 
-I speak three languages: Portuguese from Brazil, American English, and European Spanish, which strengthens my ability to collaborate effectively in global teams and international projects.
+I am fluent in Brazilian Portuguese and European Spanish, and I have strong reading and listening comprehension in American English, which allows me to work effectively in multicultural and international environments.
 
 <p align="left">
     <a href="https://giovaneeufrasio.com/" target="_blank">
